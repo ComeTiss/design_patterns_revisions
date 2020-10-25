@@ -1,6 +1,5 @@
 package behavioural_patterns.visitor;
 
-
 import java.util.Iterator;
 
 public class Client {
